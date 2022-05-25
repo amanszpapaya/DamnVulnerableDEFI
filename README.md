@@ -1,2 +1,2 @@
 # DamnVulnerableDEFI
-Under Construction......
+Added answers to first 5 questions
